@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hive</string>
+    <string name="nav_home_title">Homes</string>
+    <string name="nav_dash_title">Dashboard</string>
+    <string name="nav_cal_title">Calender</string>
+    <string name="nav_chat_title">Chat</string>
+</resources>
