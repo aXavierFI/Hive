@@ -4,4 +4,5 @@
     <string name="nav_dash_title">Dashboard</string>
     <string name="nav_cal_title">Calender</string>
     <string name="nav_chat_title">Chat</string>
+    <string name="textgridtxt">Dashboard</string>
 </resources>
